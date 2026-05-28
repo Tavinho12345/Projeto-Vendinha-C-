@@ -1015,11 +1015,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\downloads\\VendinhaPlena\\VendinhaPlena\\VendinhaPlena\\TrabalhoVendinha\\TrabalhoVendinha\\TrabalhoVendinha.csproj",
+      "projectUniqueName": "C:\\Users\\Otavi\\OneDrive\\Área de Trabalho\\VendinhaPlena\\VendinhaPlena\\VendinhaPlena\\TrabalhoVendinha\\TrabalhoVendinha\\TrabalhoVendinha.csproj",
       "projectName": "TrabalhoVendinha",
-      "projectPath": "D:\\downloads\\VendinhaPlena\\VendinhaPlena\\VendinhaPlena\\TrabalhoVendinha\\TrabalhoVendinha\\TrabalhoVendinha.csproj",
+      "projectPath": "C:\\Users\\Otavi\\OneDrive\\Área de Trabalho\\VendinhaPlena\\VendinhaPlena\\VendinhaPlena\\TrabalhoVendinha\\TrabalhoVendinha\\TrabalhoVendinha.csproj",
       "packagesPath": "C:\\Users\\Otavi\\.nuget\\packages\\",
-      "outputPath": "D:\\downloads\\VendinhaPlena\\VendinhaPlena\\VendinhaPlena\\TrabalhoVendinha\\TrabalhoVendinha\\obj\\",
+      "outputPath": "C:\\Users\\Otavi\\OneDrive\\Área de Trabalho\\VendinhaPlena\\VendinhaPlena\\VendinhaPlena\\TrabalhoVendinha\\TrabalhoVendinha\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Otavi\\AppData\\Roaming\\NuGet\\NuGet.Config"

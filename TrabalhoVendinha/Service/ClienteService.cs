@@ -58,6 +58,92 @@ namespace TrabalhoVendinha.Service
         }
 
 
+        // editar dados do cliente
+        public void EditarCliente(string cpf)
+        {
+            using var db = new AppDbContext();
+
+            var cliente = db.Clientes.FirstOrDefault(c => c.CPF == cpf);
+
+            if (cliente == null)
+            {
+                Console.WriteLine("Cliente não encontrado.");
+                return;
+            }
+
+            Console.WriteLine("Novo nome (Enter para manter atual):");
+            var nome = Console.ReadLine();
+            if (!string.IsNullOrWhiteSpace(nome))
+                cliente.Nome = nome;
+
+            Console.WriteLine("Novo email (Enter para manter atual):");
+            var email = Console.ReadLine();
+            if (!string.IsNullOrWhiteSpace(email))
+                cliente.Email = email;
+
+            db.SaveChanges();
+            Console.WriteLine("Cliente atualizado com sucesso!");
+        }
+
+
+        // deletar cliente
+        public void DeletarCliente(string cpf)
+        {
+            using var db = new AppDbContext();
+
+            var cliente = db.Clientes
+                .Include(c => c.Dividas)
+                .FirstOrDefault(c => c.CPF == cpf);
+
+            if (cliente == null)
+            {
+                Console.WriteLine("Cliente não encontrado.");
+                return;
+            }
+
+            foreach (var divida in cliente.Dividas)
+            {
+                db.Dividas.Remove(divida);
+            }
+
+            db.Clientes.Remove(cliente);
+            db.SaveChanges();
+
+            Console.WriteLine("Cliente removido com sucesso!");
+        }
+
+
+        // deletar dívida
+        public void DeletarDivida(string cpf)
+        {
+            using var db = new AppDbContext();
+
+            var cliente = db.Clientes
+                .Include(c => c.Dividas)
+                .FirstOrDefault(c => c.CPF == cpf);
+
+            if (cliente == null)
+            {
+                Console.WriteLine("Cliente não encontrado.");
+                return;
+            }
+
+            var divida = cliente.Dividas.FirstOrDefault(d => d.Paga == false);
+
+            if (divida == null)
+            {
+                Console.WriteLine("Cliente não possui dívida em aberto.");
+                return;
+            }
+
+            db.Dividas.Remove(divida);
+            db.SaveChanges();
+
+            Console.WriteLine("Dívida removida com sucesso!");
+        }
+
+
+
         // metodo para listar clientes
         public List<Cliente> ListarClientes()
         {

@@ -21,6 +21,9 @@ namespace TrabalhoVendinha.Controllers
                 Console.WriteLine("4 - Pagar Divida");
                 Console.WriteLine("5 - Buscar cliente por nome");
                 Console.WriteLine("6 - Listar clientes por paginacao");
+                Console.WriteLine("7 - Editar Cliente");
+                Console.WriteLine("8 - Deletar Cliente");
+                Console.WriteLine("9 - Deletar Divida");
                 Console.WriteLine("0 - Sair");
 
                 Console.Write("Escolha: ");
@@ -91,6 +94,27 @@ namespace TrabalhoVendinha.Controllers
                         cliente.PrintDados();
                     }
 
+                }
+
+
+                else if (opcao == 7)
+                {
+                    Console.WriteLine("Digite o CPF do cliente:");
+                    var cpf = Console.ReadLine();
+                    clienteService.EditarCliente(cpf);
+
+                }
+                else if (opcao == 8)
+                {
+                    Console.WriteLine("Digite o CPF do cliente:");
+                    var cpf = Console.ReadLine();
+                    clienteService.DeletarCliente(cpf);
+                }
+                else if (opcao == 9)
+                {
+                    Console.WriteLine("Digite o CPF do cliente:");
+                    var cpf = Console.ReadLine();
+                    clienteService.DeletarDivida(cpf);
                 }
 
 
