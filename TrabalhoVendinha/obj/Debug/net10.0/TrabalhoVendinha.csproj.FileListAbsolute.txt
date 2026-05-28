@@ -1,0 +1,171 @@
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\TrabalhoVendinha.exe
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\TrabalhoVendinha.deps.json
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\TrabalhoVendinha.runtimeconfig.json
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\TrabalhoVendinha.dll
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\TrabalhoVendinha.pdb
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.Data.Sqlite.dll
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.Extensions.Logging.dll
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.Extensions.Options.dll
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\SQLitePCLRaw.core.dll
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\obj\Debug\net10.0\TrabalhoVendinha.csproj.AssemblyReference.cache
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\obj\Debug\net10.0\TrabalhoVendinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\obj\Debug\net10.0\TrabalhoVendinha.AssemblyInfoInputs.cache
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\obj\Debug\net10.0\TrabalhoVendinha.AssemblyInfo.cs
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\obj\Debug\net10.0\TrabalhoVendinha.csproj.CoreCompileInputs.cache
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\obj\Debug\net10.0\Trabalho.CBD7FF2C.Up2Date
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\obj\Debug\net10.0\TrabalhoVendinha.dll
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\obj\Debug\net10.0\refint\TrabalhoVendinha.dll
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\obj\Debug\net10.0\TrabalhoVendinha.pdb
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\obj\Debug\net10.0\TrabalhoVendinha.genruntimeconfig.cache
+C:\Users\Otavi\OneDrive\Área de Trabalho\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\obj\Debug\net10.0\ref\TrabalhoVendinha.dll
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\TrabalhoVendinha.exe
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\TrabalhoVendinha.deps.json
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\TrabalhoVendinha.runtimeconfig.json
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\TrabalhoVendinha.dll
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\TrabalhoVendinha.pdb
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.Data.Sqlite.dll
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.Extensions.Logging.dll
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.Extensions.Options.dll
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\SQLitePCLRaw.core.dll
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\obj\Debug\net10.0\TrabalhoVendinha.csproj.AssemblyReference.cache
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\obj\Debug\net10.0\TrabalhoVendinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\obj\Debug\net10.0\TrabalhoVendinha.AssemblyInfoInputs.cache
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\obj\Debug\net10.0\TrabalhoVendinha.AssemblyInfo.cs
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\obj\Debug\net10.0\TrabalhoVendinha.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\obj\Debug\net10.0\Trabalho.CBD7FF2C.Up2Date
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\obj\Debug\net10.0\TrabalhoVendinha.dll
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\obj\Debug\net10.0\refint\TrabalhoVendinha.dll
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\obj\Debug\net10.0\TrabalhoVendinha.pdb
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\obj\Debug\net10.0\TrabalhoVendinha.genruntimeconfig.cache
+C:\Users\Aula\Downloads\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\obj\Debug\net10.0\ref\TrabalhoVendinha.dll
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\obj\Debug\net10.0\TrabalhoVendinha.dll
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\obj\Debug\net10.0\refint\TrabalhoVendinha.dll
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\obj\Debug\net10.0\TrabalhoVendinha.pdb
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\obj\Debug\net10.0\TrabalhoVendinha.csproj.AssemblyReference.cache
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\obj\Debug\net10.0\TrabalhoVendinha.GeneratedMSBuildEditorConfig.editorconfig
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\obj\Debug\net10.0\TrabalhoVendinha.AssemblyInfoInputs.cache
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\obj\Debug\net10.0\TrabalhoVendinha.AssemblyInfo.cs
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\obj\Debug\net10.0\TrabalhoVendinha.csproj.CoreCompileInputs.cache
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\TrabalhoVendinha.exe
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\TrabalhoVendinha.deps.json
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\TrabalhoVendinha.runtimeconfig.json
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\TrabalhoVendinha.dll
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\TrabalhoVendinha.pdb
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.Data.Sqlite.dll
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.Extensions.Caching.Memory.dll
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.dll
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.Extensions.Logging.dll
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.Extensions.Options.dll
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\Microsoft.Extensions.Primitives.dll
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\SQLitePCLRaw.batteries_v2.dll
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\SQLitePCLRaw.core.dll
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-riscv64\native\libe_sqlite3.so
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\obj\Debug\net10.0\Trabalho.CBD7FF2C.Up2Date
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\obj\Debug\net10.0\TrabalhoVendinha.genruntimeconfig.cache
+D:\downloads\VendinhaPlena\VendinhaPlena\VendinhaPlena\TrabalhoVendinha\TrabalhoVendinha\obj\Debug\net10.0\ref\TrabalhoVendinha.dll
