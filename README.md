@@ -6,7 +6,7 @@ Sistema de gerenciamento de clientes e dívidas desenvolvido em C# .NET com SQLi
 
 ##  Descrição
 
-Aplicação de console que permite cadastrar clientes, registrar dívidas e controlar pagamentos. Os dados são persistidos em um banco de dados SQLite, garantindo que as informações sejam mantidas entre as execuções do programa.
+Aplicação de console que permite cadastrar clientes, editar clientes, deletar clientes, registrar dívidas e controlar pagamentos. Os dados são persistidos em um banco de dados SQLite, garantindo que as informações sejam mantidas entre as execuções do programa.
 
 ---
 
@@ -31,9 +31,6 @@ Aplicação de console que permite cadastrar clientes, registrar dívidas e cont
 - SQLite
 - DBeaver (criação do banco)
 
----
-
-##  Como rodar o projeto
 
 ### Pré-requisitos
 
@@ -44,7 +41,7 @@ Aplicação de console que permite cadastrar clientes, registrar dívidas e cont
 
 1. Crie a pasta `C:\datas\sqlite\` no seu computador
 2. Abra o DBeaver e crie um novo banco SQLite em `C:\datas\sqlite\vendinha.db`
-3. Execute o seguinte SQL para criar as tabelas:
+3. Execute o codigo sql abaixo para criar as tabelas:
 
 ```sql
 CREATE TABLE Clientes (
