@@ -13,8 +13,8 @@ Aplicação de console que permite cadastrar clientes, registrar dívidas e cont
 ##  Funcionalidades
 
 - **Cadastrar cliente** — registra nome, CPF, e-mail e data de nascimento
--  **Editar cliente** - permite que o usuario edite dados dos clientes
--  ** Deletar cliebte** permite que o usuario delete os dados dos clientes
+- **Editar cliente** - permite que o usuario edite dados dos clientes
+- **Deletar cliebte** - permite que o usuario delete os dados dos clientes
 - **Listar clientes** — exibe todos os clientes com suas dívidas
 - **Adicionar dívida** — registra uma dívida em aberto para um cliente (apenas uma por vez)
 - **Deletar dívida** -- permite que o usuario delete uma divida
